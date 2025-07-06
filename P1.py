@@ -99,6 +99,8 @@ async def get_table_sum(table_name : AvailableTables, row_name : str) :
         "sum" : total,
     }
 
+if __name__ == "__main__":
+    uvicorn.run(app, host="localhost", port=9090)
 
 
 
