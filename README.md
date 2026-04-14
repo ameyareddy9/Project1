@@ -85,11 +85,3 @@ To help us quickly test your application, please provide a Postman collection JS
 
 *   **Base URL:** `http://localhost:9090` and the given endpoint names.
 *   **Postman Collection:** 
-
-## Deadline
-
-Please submit your solution by **Saturday, May 10th, EOD**. Ensure you fill out the form provided in your email with the repository link (make sure the repository is public) and any other requested details. We plan to evaluate the submissions early Sunday morning and will schedule final interviews on the same day.
-
-Feel free to open an issue in this repo if you have any questions. Your honesty is appreciated in this test.
-
-Good luck! We look forward to reviewing your submission. 
